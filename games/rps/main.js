@@ -1,4 +1,4 @@
-var publishable_key = "YOUR_ROBOFLOW_KEY_HERE";
+var publishable_key = "rf_l8GLzZgLQL6gZLAin1iU";
 var toLoad = {
     model: "rock-paper-scissors-sxsw",
     version: 11,
